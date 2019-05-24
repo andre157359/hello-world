@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"Bootstrap 4 Autocomplete",
+		"Bootstrap 4 Snippets",
+		"BracketHighlighter",
+		"Color Highlight",
+		"Color Highlighter",
+		"CSS3",
+		"Emmet",
+		"Gist",
+		"HTML Nest Comments",
+		"JavaScript Completions",
+		"LESS",
+		"Package Control",
+		"PHP Completions Kit",
+		"Sass",
+		"SASS Build",
+		"Sync Settings",
+		"SyntaxHighlighter Reloaded Color Scheme",
+		"Terminal",
+		"Theme - Afterglow",
+		"WordPress"
+	]
+}

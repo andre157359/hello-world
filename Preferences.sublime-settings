@@ -1,0 +1,12 @@
+{
+	"font_size": 12,
+	"fonts_face": "Consolas",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"tab_size": 1,
+	"tabs_small": true,
+	"theme": "Afterglow.sublime-theme"
+}
